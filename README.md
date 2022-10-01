@@ -36,7 +36,7 @@ This is a small money transaction API testing project where three stack-holders 
 
 Open Terminal
 ````
-git clone https://github.com/SohagSagar/Dmoney_api_automation_using_postman_newman.git
+git clone https://github.com/tazinasfia/Api-Automation.git
 ````
 ````
 cd Dmoney_api_automation_using_postman_newman
